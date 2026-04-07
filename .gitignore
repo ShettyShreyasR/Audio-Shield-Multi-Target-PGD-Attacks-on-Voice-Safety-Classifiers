@@ -1,1 +1,17 @@
+# Python Virtual Environment
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
 
+# Python Cache
+__pycache__/
+
+# Output Audio & Test Files
+adversarial_runs/
+2.mp3
+clean.mp3
+
+# OS metadata
+.DS_Store
